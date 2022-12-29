@@ -6,7 +6,7 @@
 - This App uses the **imgFlip Meme Generator API** to fetch all the images.
 - You can visit the API [here](https://imgflip.com/api).
 
-> Try the live version right now-> [meme-generator.netlify.app]([![Netlify Status](https://api.netlify.com/api/v1/badges/ea473fc2-3ba8-4da4-bb3d-af3e3942de03/deploy-status)](https://app.netlify.com/sites/meme-generator-sm/deploys))
+> Try the live version right now-> [meme-generator-sm.netlify.app]([(https://api.netlify.com/api/v1/badges/ea473fc2-3ba8-4da4-bb3d-af3e3942de03/deploy-status)](https://app.netlify.com/sites/meme-generator-sm/deploys))
 
 ## How to start
 
